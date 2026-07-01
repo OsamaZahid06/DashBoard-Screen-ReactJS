@@ -1,0 +1,1 @@
+Dashboard Screen is a frontend web application developed with React.js, JavaScript, HTML5, CSS3, and Bootstrap. It provides a responsive and user-friendly interface with reusable components, interactive dashboards, data tables, charts, API integration, and mobile-friendly layouts. The project follows clean coding standards and modern frontend development best practices.
