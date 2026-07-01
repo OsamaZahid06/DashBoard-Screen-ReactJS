@@ -1,0 +1,6 @@
+@media (max-width: 700px) {
+  .reverse-mobile {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
